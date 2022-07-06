@@ -1,0 +1,15 @@
+.settings/
+.metadata
+.project
+.idea
+.classpath
+.settings
+**/target/
+*.springBeans
+codegen/result.json
+rpdata-transform/.factorypath
+rpdata-replication/replication-receiver/jamonReport.html
+/bin/
+rest-service/.factorypath
+*.MF
+rest-service/pdf/
